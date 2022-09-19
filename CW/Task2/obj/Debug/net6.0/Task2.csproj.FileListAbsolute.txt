@@ -1,0 +1,15 @@
+D:\все\GeekBrains\Новая папка\Сsharp\Семинары\CsharpCW7\CW\Task2\bin\Debug\net6.0\Task2.exe
+D:\все\GeekBrains\Новая папка\Сsharp\Семинары\CsharpCW7\CW\Task2\bin\Debug\net6.0\Task2.deps.json
+D:\все\GeekBrains\Новая папка\Сsharp\Семинары\CsharpCW7\CW\Task2\bin\Debug\net6.0\Task2.runtimeconfig.json
+D:\все\GeekBrains\Новая папка\Сsharp\Семинары\CsharpCW7\CW\Task2\bin\Debug\net6.0\Task2.dll
+D:\все\GeekBrains\Новая папка\Сsharp\Семинары\CsharpCW7\CW\Task2\bin\Debug\net6.0\Task2.pdb
+D:\все\GeekBrains\Новая папка\Сsharp\Семинары\CsharpCW7\CW\Task2\obj\Debug\net6.0\Task2.csproj.AssemblyReference.cache
+D:\все\GeekBrains\Новая папка\Сsharp\Семинары\CsharpCW7\CW\Task2\obj\Debug\net6.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\все\GeekBrains\Новая папка\Сsharp\Семинары\CsharpCW7\CW\Task2\obj\Debug\net6.0\Task2.AssemblyInfoInputs.cache
+D:\все\GeekBrains\Новая папка\Сsharp\Семинары\CsharpCW7\CW\Task2\obj\Debug\net6.0\Task2.AssemblyInfo.cs
+D:\все\GeekBrains\Новая папка\Сsharp\Семинары\CsharpCW7\CW\Task2\obj\Debug\net6.0\Task2.csproj.CoreCompileInputs.cache
+D:\все\GeekBrains\Новая папка\Сsharp\Семинары\CsharpCW7\CW\Task2\obj\Debug\net6.0\Task2.dll
+D:\все\GeekBrains\Новая папка\Сsharp\Семинары\CsharpCW7\CW\Task2\obj\Debug\net6.0\refint\Task2.dll
+D:\все\GeekBrains\Новая папка\Сsharp\Семинары\CsharpCW7\CW\Task2\obj\Debug\net6.0\Task2.pdb
+D:\все\GeekBrains\Новая папка\Сsharp\Семинары\CsharpCW7\CW\Task2\obj\Debug\net6.0\Task2.genruntimeconfig.cache
+D:\все\GeekBrains\Новая папка\Сsharp\Семинары\CsharpCW7\CW\Task2\obj\Debug\net6.0\ref\Task2.dll
